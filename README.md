@@ -17,7 +17,7 @@ Hi, my name is Akihiro. i'm a student and developer, make sure to take a look is
 <div align="center">
 
   
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RezeScarlet&theme=rose_pine&title_color=eb6f92&border_color=eb6f92" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AkihiroAurora&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" /></a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RezeScarlet&layout=compact&langs_count=8&card_width=320&theme=rose_pine&title_color=eb6f92&border_color=eb6f92" /></a>
 
