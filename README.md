@@ -24,6 +24,6 @@ i am currectly 17 years old.
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AkihiroAurora&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=bb9af7" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AkihiroAurora&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=bb9af7&border_color=bb9af7" /></a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AkihiroAurora&layout=compact&langs_count=8&card_width=320&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=bb9af7" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AkihiroAurora&layout=compact&langs_count=8&card_width=320&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=bb9af7&border_color=bb9af7" /></a>
